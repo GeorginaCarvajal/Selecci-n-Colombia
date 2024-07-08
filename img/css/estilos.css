@@ -1,0 +1,7 @@
+.imagenes {
+    display: flex;
+  }
+  
+  .imagenes img {
+    margin: 0 10px;
+  }
